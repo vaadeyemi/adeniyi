@@ -21,8 +21,8 @@ h2 {
   color: #66BFBF;
   font-family: 'Montserrat',sans-serif; /*embedded font from fonts.google.com*/
   padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 h3 {
