@@ -21,8 +21,6 @@ h2 {
   color: #66BFBF;
   font-family: 'Montserrat',sans-serif; /*embedded font from fonts.google.com*/
   padding-bottom: 10px;
-  margin-left: 30px;
-  margin-right: 30px;
 }
 
 h3 {
@@ -51,6 +49,7 @@ hr {
   background-color: #EAF6F6;
   position: relative;
   padding-top: 100px;
+  padding-left: 20px;
 }
 
 .middle-container {
